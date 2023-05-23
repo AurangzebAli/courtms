@@ -1,0 +1,18 @@
+/* your styles go here */
+.label{
+width :18%;
+
+
+}
+.detail-textboxes
+{
+width:80%;
+display: -webkit-inline-box;	
+	
+}
+.detail-ddl
+{
+width:40%;
+display: -webkit-inline-box;	
+padding-bottom: inherit;	
+}
